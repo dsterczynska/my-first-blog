@@ -25,7 +25,7 @@ SECRET_KEY = ')-8=r2_hf9bp9qu@3e(n=09qf^r_%)ih)g&@6v3=9@5dx4((ln'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['animeacid.pythonanywhere.com']
 
 
 # Application definition
